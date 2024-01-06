@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <h2 className="textstyle">Welcome to XConnect</h2>
+      <h2 className="textstyle">Welcome to X Connect</h2>
       <LoginForm />
       <Footer />
     </>
